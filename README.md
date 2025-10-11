@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm RactOpen 👋
 
-<!--
-**ractopen/ractopen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
 
-Here are some ideas to get you started:
+Computer Science student learning full-stack web development. Currently exploring Laravel and building projects to level up my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+**Languages:** Java, HTML, CSS, JavaScript (basics), C++, Python, Bash  
+**Frameworks:** Laravel (currently learning)  
+**Databases:** PostgreSQL, MySQL  
+**OS:** Fedora Linux  
+**Tools:** Git, GitHub
+
+## 🌱 Currently Learning
+
+Full-stack web development - working my way through frontend and backend technologies to become a complete web developer.
+
+## 🏆 Achievements
+
+- ✅ Completed Git & GitHub Workshop (Certificate)
+- ✅ Completed SoloLearn Java Course (Certificate)
+
+## 🎯 Goals
+
+Learning everything needed for full-stack web development (one step at a time).
+
+## 📫 Contact Me
+
+- **Email:** ractopen@gmail.com
+- **GitHub:** [github.com/ractopen](https://github.com/ractopen)
+
+---
+
+⚡ **Fun fact:** I want to learn it all, but I'm lazy
