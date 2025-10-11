@@ -1,12 +1,14 @@
 <div align="center">
 
-# Hi there, I'm RactOpen 👋
+# Hi there, I'm RactOpen <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-### 🎓 Computer Science Student | 💻 Aspiring Full-Stack Developer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Aspiring+Full-Stack+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ractopen&color=blueviolet&style=flat-square)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 About Me
 
@@ -14,7 +16,7 @@ Computer Science student learning full-stack web development. Currently explorin
 
 ⚡ **Fun fact:** I want to learn it all, but I'm lazy 😄
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💻 Tech Stack
 
@@ -38,7 +40,7 @@ Computer Science student learning full-stack web development. Currently explorin
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌱 Currently Learning
 
@@ -46,14 +48,14 @@ Full-stack web development - working my way through frontend and backend technol
 
 **Goal:** Learning everything needed for full-stack web development (one step at a time) 🎯
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 Achievements
 
 - ✅ **Completed Git & GitHub Workshop** (Certificate)
 - ✅ **Completed SoloLearn Java Course** (Certificate)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Stats
 
@@ -67,7 +69,7 @@ Full-stack web development - working my way through frontend and backend technol
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📫 Contact Me
 
@@ -78,7 +80,7 @@ Full-stack web development - working my way through frontend and backend technol
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
