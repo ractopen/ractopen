@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm RactOpen <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there,%20I'm%20RactOpen%20👋&fontSize=42&fontAlignY=32&desc=Computer%20Science%20Student%20|%20Aspiring%20Full-Stack%20Developer&descAlignY=51&descAlign=50&animation=twinkling"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Aspiring+Full-Stack+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Aspiring+Full-Stack+Developer;Always+Learn+New+Things)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ractopen&color=blueviolet&style=flat-square)
 
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-Computer Science student learning full-stack web development. Currently exploring **Laravel** and building projects to level up my skills.
+Computer Science student learning to be a full-stack developer. Currently exploring **Laravel** and building projects to level up my skills.
 
 ⚡ **Fun fact:** I want to learn it all, but I'm lazy 😄
 
