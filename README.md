@@ -55,6 +55,14 @@ Full-stack web development - working my way through frontend and backend technol
 - ✅ **Completed Git & GitHub Workshop** (Certificate)
 - ✅ **Completed SoloLearn Java Course** (Certificate)
 
+### GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ractopen&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Stats
