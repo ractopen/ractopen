@@ -77,6 +77,7 @@ Full-stack web development - working my way through frontend and backend technol
 
 [![Email](https://img.shields.io/badge/Email-ractopen@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ractopen@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ractopen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ractopen)
+[![YouTube](https://img.shields.io/badge/YouTube-ractenopen-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ractenopen)
 
 </div>
 
