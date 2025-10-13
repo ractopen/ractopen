@@ -5,6 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Aspiring+Full-Stack+Developer;Always+Learn+New+Things)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ractopen&color=blueviolet&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/ractopen?style=flat-square&color=blueviolet)](https://github.com/ractopen)
+[![Last Commit](https://img.shields.io/github/last-commit/ractopen?style=flat-square&color=blueviolet&label=Last%20Commit)](https://github.com/ractopen)
 
 </div>
 
@@ -39,6 +41,16 @@ Computer Science student learning to be a full-stack developer. Currently explor
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📝 Last Repo Committed To
+
+<!--START_SECTION:activity-->
+1. 🎯 Waiting for first commit...
+2. 🎯 Waiting for second commit...
+3. 🎯 Waiting for third commit...
+<!--END_SECTION:activity-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
