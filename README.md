@@ -57,28 +57,6 @@ Full-stack web development - working my way through frontend and backend technol
 - ✅ **Completed Git & GitHub Workshop** (Certificate)
 - ✅ **Completed SoloLearn Java Course** (Certificate)
 
-### GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ractopen&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![RactOpen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ractopen&show_icons=true&theme=ambient_gradient&hide=stars,issues&hide_rank=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ractopen&layout=compact&theme=ambient_gradient)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ractopen&theme=ambient-gradient)
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📫 Contact Me
