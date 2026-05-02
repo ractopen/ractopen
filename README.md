@@ -11,15 +11,15 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 About Me
+##  About Me
 
 Computer Science student learning to be a full-stack developer. Currently exploring **Laravel** and building projects to level up my skills.
 
-⚡ **Fun fact:** I want to learn it all, but I'm lazy 😄
+ **Fun fact:** I want to learn it all, but I'm lazy 😄
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -44,7 +44,7 @@ Computer Science student learning to be a full-stack developer. Currently explor
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 Full-stack web development - working my way through frontend and backend technologies to become a complete web developer.
 
@@ -52,14 +52,14 @@ Full-stack web development - working my way through frontend and backend technol
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 Achievements
+##  Achievements
 
 - ✅ **Completed Git & GitHub Workshop** (Certificate)
 - ✅ **Completed SoloLearn Java Course** (Certificate)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📫 Contact Me
+##  Contact Me
 
 <div align="center">
 
