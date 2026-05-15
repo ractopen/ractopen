@@ -43,6 +43,31 @@ Computer Science student learning to be a full-stack developer. Currently explor
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🛠️ Currently Working On
+
+<div align="center">
+
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[TodoAg](https://github.com/ractopen/todoag)** | A modern To-Do list application built with Flutter. | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | 🚧 Building... |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 Finished Products
+
+<div align="center">
+
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Royette Printing Service** | Web application for managing printing services. | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | [View Repo](https://github.com/ractopen/royetteprinting-service) |
+| **Anamaria** | Personal web development project. | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | [View Repo](https://github.com/ractopen/anamaria) |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ##  Currently Learning
 
