@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there,%20I'm%20RactOpen%20👋&fontSize=42&fontAlignY=32&desc=Computer%20Science%20Student%20|%20Aspiring%20Full-Stack%20Developer&descAlignY=51&descAlign=50&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there,%20I'm%20RactOpen&fontSize=42&fontAlignY=32&desc=Computer%20Science%20Student%20|%20Full-Stack%20%26%20Software%20Developer&descAlignY=51&descAlign=50&animation=twinkling"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Aspiring+Full-Stack+Developer;Always+Learn+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full-Stack+Developer;Always+Building+%26+Learning)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ractopen&color=blueviolet&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/ractopen?style=flat-square&color=blueviolet)](https://github.com/ractopen)
@@ -11,25 +11,23 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-##  About Me
+## About Me
 
-Computer Science student learning to be a full-stack developer. Currently exploring **Laravel** and building projects to level up my skills.
-
- **Fun fact:** I want to learn it all, but I'm lazy 😄
+Computer Science student focused on software development, systems, and full-stack applications. Currently building Minecraft Fabric mods, web backends with Laravel, and utilities on Fedora Linux.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-##  Tech Stack
+## Tech Stack
 
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -43,48 +41,27 @@ Computer Science student learning to be a full-stack developer. Currently explor
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Currently Working On
+## Currently Working On
 
 <div align="center">
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[TodoAg](https://github.com/ractopen/todoag)** | A modern To-Do list application built with Flutter. | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | 🚧 Building... |
+| **[Speedrun-](https://github.com/ractopen/Speedrun-)** | Lightweight attempt counter, stopwatch, and reset utility for Fabric Minecraft. | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Active |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 Finished Products
+## Currently Learning
 
-<div align="center">
-
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **Royette Printing Service** | Web application for managing printing services. | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | [View Repo](https://github.com/ractopen/royetteprinting-service) |
-| **Anamaria** | Personal web development project. | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | [View Repo](https://github.com/ractopen/anamaria) |
-
-</div>
+* Advanced backend architecture with Laravel & Java
+* Fabric mod development and Minecraft internals
+* Linux server administration and workflow automation
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-##  Currently Learning
-
-Full-stack web development - working my way through frontend and backend technologies to become a complete web developer.
-
-**Goal:** Learning everything needed for full-stack web development (one step at a time) 🎯
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-##  Achievements
-
-- ✅ **Completed Git & GitHub Workshop** (Certificate)
-- ✅ **Completed SoloLearn Java Course** (Certificate)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-##  Contact Me
+## Contact Me
 
 <div align="center">
 
@@ -98,6 +75,6 @@ Full-stack web development - working my way through frontend and backend technol
 
 <div align="center">
 
-💡 *Always building, always learning* 💡
+*Always building, always learning.*
 
 </div>
