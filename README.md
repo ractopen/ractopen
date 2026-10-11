@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there,%20I'm%20RactOpen&fontSize=42&fontAlignY=32&desc=Computer%20Science%20Student%20|%20Full-Stack%20%26%20Software%20Developer&descAlignY=51&descAlign=50&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there,%20I'm%20RactOpen&fontSize=42&fontAlignY=32&desc=Computer%20Science%20Student%20-%20Full-Stack%20Developer&descAlignY=51&descAlign=50&animation=twinkling"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full-Stack+Developer;Always+Building+%26+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=480&lines=Computer+Science+Student;Full-Stack+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ractopen&color=blueviolet&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/ractopen?style=flat-square&color=blueviolet)](https://github.com/ractopen)
