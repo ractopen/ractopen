@@ -47,7 +47,7 @@ Computer Science student focused on software development, systems, and full-stac
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[Speedrun-](https://github.com/ractopen/Speedrun-)** | Lightweight attempt counter, stopwatch, and reset utility for Fabric Minecraft. | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Active |
+| **[Speedrun-](https://github.com/ractopen/SpeedRun)** | Lightweight attempt counter, stopwatch, and reset utility for Fabric Minecraft. | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Active |
 
 </div>
 
