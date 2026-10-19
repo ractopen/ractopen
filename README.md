@@ -41,6 +41,18 @@ Computer Science student focused on software development, systems, and full-stac
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## Finished Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[kenmei-catppuccin-mocha](https://github.com/ractopen/kenmei-catppuccin-mocha)** | Catppuccin Mocha Pixel HUD dark theme & userscript for Kenmei manga tracker. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | Finished |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Currently Working On
 
 <div align="center">
