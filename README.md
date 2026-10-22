@@ -13,7 +13,7 @@
 
 ## About Me
 
-Computer Science student focused on software development, systems, and full-stack applications. Currently building Minecraft Fabric mods, web backends with Laravel, and utilities on Fedora Linux.
+Computer Science student focused on software development, systems, and full-stack applications. Currently building cross-platform mobile apps with Flutter, Minecraft Fabric mods, web backends with Laravel, and utilities on Fedora Linux.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -21,6 +21,9 @@ Computer Science student focused on software development, systems, and full-stac
 
 <div align="center">
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -59,6 +62,7 @@ Computer Science student focused on software development, systems, and full-stac
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
+| **[Poke: Iring](https://github.com/Ractopen-Academic/Poke-Iring)** | Gamified real-world feline discovery and collection mobile app inspired by Pokémon GO. | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white) | In Progress |
 | **[Speedrun-](https://github.com/ractopen/SpeedRun)** | Lightweight attempt counter, stopwatch, and reset utility for Fabric Minecraft. | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Active |
 
 </div>
@@ -67,6 +71,7 @@ Computer Science student focused on software development, systems, and full-stac
 
 ## Currently Learning
 
+* Mobile app architecture (Flutter, DDD) and on-device machine learning (TensorFlow Lite)
 * Advanced backend architecture with Laravel & Java
 * Fabric mod development and Minecraft internals
 * Linux server administration and workflow automation
